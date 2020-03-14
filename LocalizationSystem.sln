@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LocalizationSystem", "LocalizationSystem\LocalizationSystem.vcxproj", "{DEBBCD43-C219-4B2A-871A-0B3392AE443F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBBCD43-C219-4B2A-871A-0B3392AE443F}.Debug|x64.ActiveCfg = Debug|x64
+		{DEBBCD43-C219-4B2A-871A-0B3392AE443F}.Debug|x64.Build.0 = Debug|x64
+		{DEBBCD43-C219-4B2A-871A-0B3392AE443F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEBBCD43-C219-4B2A-871A-0B3392AE443F}.Debug|x86.Build.0 = Debug|Win32
+		{DEBBCD43-C219-4B2A-871A-0B3392AE443F}.Release|x64.ActiveCfg = Release|x64
+		{DEBBCD43-C219-4B2A-871A-0B3392AE443F}.Release|x64.Build.0 = Release|x64
+		{DEBBCD43-C219-4B2A-871A-0B3392AE443F}.Release|x86.ActiveCfg = Release|Win32
+		{DEBBCD43-C219-4B2A-871A-0B3392AE443F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F8D9A0-FE80-407D-A369-B97FE4D7E687}
+	EndGlobalSection
+EndGlobal
